@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\morce\\OneDrive\\Desktop\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_Desenvolvimento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC2C225-DB8F-4354-AC1E-7DB08F027946}|WebApp_Desafio_FrontEnd\\WebApp_Desafio_FrontEnd.csproj|c:\\users\\morce\\onedrive\\desktop\\webapp_desafio_desenvolvimento\\webapp_desafio_desenvolvimento\\webapp_desafio_frontend\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC2C225-DB8F-4354-AC1E-7DB08F027946}|WebApp_Desafio_FrontEnd\\WebApp_Desafio_FrontEnd.csproj|solutionrelative:webapp_desafio_frontend\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC2C225-DB8F-4354-AC1E-7DB08F027946}|WebApp_Desafio_FrontEnd\\WebApp_Desafio_FrontEnd.csproj|c:\\users\\morce\\onedrive\\desktop\\webapp_desafio_desenvolvimento\\webapp_desafio_desenvolvimento\\webapp_desafio_frontend\\views\\chamados\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EC2C225-DB8F-4354-AC1E-7DB08F027946}|WebApp_Desafio_FrontEnd\\WebApp_Desafio_FrontEnd.csproj|solutionrelative:webapp_desafio_frontend\\views\\chamados\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC2C225-DB8F-4354-AC1E-7DB08F027946}|WebApp_Desafio_FrontEnd\\WebApp_Desafio_FrontEnd.csproj|c:\\users\\morce\\onedrive\\desktop\\webapp_desafio_desenvolvimento\\webapp_desafio_desenvolvimento\\webapp_desafio_frontend\\wwwroot\\js\\chamados\\cadastrar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0EC2C225-DB8F-4354-AC1E-7DB08F027946}|WebApp_Desafio_FrontEnd\\WebApp_Desafio_FrontEnd.csproj|solutionrelative:webapp_desafio_frontend\\wwwroot\\js\\chamados\\cadastrar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184A5B88-1CAF-4F2B-B356-3028015FD8BC}|WebApp_Desafio_BackEnd\\WebApp_Desafio_BackEnd.csproj|c:\\users\\morce\\onedrive\\desktop\\webapp_desafio_desenvolvimento\\webapp_desafio_desenvolvimento\\webapp_desafio_backend\\business\\chamadosbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184A5B88-1CAF-4F2B-B356-3028015FD8BC}|WebApp_Desafio_BackEnd\\WebApp_Desafio_BackEnd.csproj|solutionrelative:webapp_desafio_backend\\business\\chamadosbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChamadosBLL.cs",
+              "DocumentMoniker": "C:\\Users\\morce\\OneDrive\\Desktop\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_BackEnd\\Business\\ChamadosBLL.cs",
+              "RelativeDocumentMoniker": "WebApp_Desafio_BackEnd\\Business\\ChamadosBLL.cs",
+              "ToolTip": "C:\\Users\\morce\\OneDrive\\Desktop\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_BackEnd\\Business\\ChamadosBLL.cs",
+              "RelativeToolTip": "WebApp_Desafio_BackEnd\\Business\\ChamadosBLL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBkAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T19:49:35.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastrar.js",
+              "DocumentMoniker": "C:\\Users\\morce\\OneDrive\\Desktop\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_FrontEnd\\wwwroot\\js\\Chamados\\Cadastrar.js",
+              "RelativeDocumentMoniker": "WebApp_Desafio_FrontEnd\\wwwroot\\js\\Chamados\\Cadastrar.js",
+              "ToolTip": "C:\\Users\\morce\\OneDrive\\Desktop\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_FrontEnd\\wwwroot\\js\\Chamados\\Cadastrar.js",
+              "RelativeToolTip": "WebApp_Desafio_FrontEnd\\wwwroot\\js\\Chamados\\Cadastrar.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-04T18:47:47.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\morce\\OneDrive\\Desktop\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_FrontEnd\\Views\\Chamados\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Desafio_FrontEnd\\Views\\Chamados\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\morce\\OneDrive\\Desktop\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_FrontEnd\\Views\\Chamados\\Cadastrar.cshtml",
+              "RelativeToolTip": "WebApp_Desafio_FrontEnd\\Views\\Chamados\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T18:47:44.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\morce\\OneDrive\\Desktop\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_FrontEnd\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "WebApp_Desafio_FrontEnd\\Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\morce\\OneDrive\\Desktop\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_Desenvolvimento\\WebApp_Desafio_FrontEnd\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "WebApp_Desafio_FrontEnd\\Controllers\\DepartamentosController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwI8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:13:35.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

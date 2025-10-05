@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "WebApp_Desafio_API\\WebApp_Desafio_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebApp_Desafio_FrontEnd\\WebApp_Desafio_FrontEnd.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebApp_Desafio_BackEnd\\WebApp_Desafio_BackEnd.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WinForm_Desafio_Reports\\WinForm_Desafio_Reports.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
